@@ -1,0 +1,5 @@
+{
+  "name": "Reel Video",
+  "description": "Một ứng dụng web giúp tính toán khoản lỗ tài chính tiềm năng từ việc không tạo video reel hàng ngày, dựa trên nguyên tắc lãi kép cho một chuỗi niên kim.",
+  "requestFramePermissions": []
+}
